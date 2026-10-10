@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
+  "version": "1.2.1",
   "url": "https://raw.githubusercontent.com/motionseeds/master_update/main/update-1.1.1.zip",
   "sha256": "9fdc8384dfca139ba6c524f25a70f20666ec7b27e032f0a41c5765ad2a9001c9",
   "notes": "Anchor point fix for text & shape layers, new Solid and Split Text modifiers, built-in auto-updater",
